@@ -1,0 +1,3 @@
+export const CHANGE_HOME_TITLE = 'CHANGE_HOME_TITLE';
+
+export const CHANGE_CONTENT = 'CHANGE_CONTENT';
