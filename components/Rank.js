@@ -12,7 +12,7 @@ export class Rank extends Component{
     }
     
     render(){
-        return (<View>
+        return (<View style={{paddingTop:100}}>
             <Text onPress={this.changeTitle}>{this.props.rank.title}</Text>
         </View>)
     }
